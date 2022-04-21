@@ -1,6 +1,6 @@
 (in-package #:cl-user)
 
-(defpackage #:parsley
+(defpackage #:binary-parser
   (:use #:cl)
   (:export
    #:*buffer*
