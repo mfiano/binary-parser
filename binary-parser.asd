@@ -2,7 +2,7 @@
   :description "A toolset for parsing binary data formats."
   :author "Michael Fiano <mail@mfiano.net>"
   :license "MIT"
-  :homepage "https://github.com/mfiano/binary-parser"
+  :homepage "https://git.mfiano.net/mfiano/binary-parser"
   :encoding :utf-8
   :depends-on (#:babel
                #:bitio
