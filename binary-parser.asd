@@ -4,10 +4,11 @@
   :license "MIT"
   :homepage "https://git.mfiano.net/mfiano/binary-parser"
   :encoding :utf-8
-  :depends-on (#:babel
-               #:bitio
-               #:chipz
-               #:fast-io)
+  :depends-on
+  (#:babel
+   #:bitio
+   #:chipz
+   #:fast-io)
   :pathname "src"
   :serial t
   :components
